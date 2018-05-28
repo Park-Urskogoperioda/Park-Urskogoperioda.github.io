@@ -1,0 +1,189 @@
+body {
+  background-color: rgb(255, 0, 0);
+  font: 400 1.688em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.container .container {
+  width: 98.0793854033%;
+  height: 81px;
+  margin-top: 24px;
+}
+
+.text {
+  color: rgb(0, 0, 0);
+}
+
+._button {
+  display: block;
+  float: left;
+  width: 29.5904887714%;
+  height: 40px;
+  margin-top: 5px;
+  border-radius: 3px;
+  background-color: rgb(243, 83, 83);
+  font-family: Georgia;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._button:hover {
+  border: 3px solid rgb(255, 255, 255);
+}
+
+._button:active {
+  border: 4px dashed rgb(255, 255, 255);
+}
+
+.container-1 {
+  width: 787px;
+  max-width: 787px;
+  height: 691px;
+  max-height: 691px;
+  margin-top: 13px;
+  border: 3px solid rgb(0, 0, 0);
+  background-image: url('../images/1028_1280x1024-wallpaper-cb1456868275.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.text-1 {
+  float: left;
+  clear: both;
+  width: 88.7074829931%;
+  min-width: 457px;
+  min-height: 130px;
+  margin: 21px 0 0 5.64381%;
+  border: 3px solid rgb(0, 0, 0);
+  border-radius: 30px;
+  background-color: rgb(169, 35, 35);
+  font-size: 2.37em;
+  font-weight: 700;
+  text-align: center;
+}
+
+.text-2 {
+  width: 58.231292517%;
+  min-height: 162px;
+  margin: 159px auto 0;
+  border: 3px solid rgb(0, 0, 0);
+  border-radius: 47px;
+  background-color: rgb(169, 35, 35);
+  font-style: italic;
+  font-size: 1em;
+  text-align: center;
+}
+
+.text-3 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 6;
+  width: 135px;
+  max-width: 135px;
+  min-height: 99px;
+  margin: 30px 0 0 3.7352%;
+  border-radius: 36px;
+  background: url('../images/img_58976.png') rgb(255, 0, 0);
+  background-size: cover;
+  background-position: center center;
+  font-size: 0.593em;
+  -webkit-transition: 0.5;
+  -moz-transition: 0.5;
+  -o-transition: 0.5;
+  -ms-transition: 0.5;
+  transition: 0.5;
+}
+
+.text-3:hover {
+  border: 4px solid rgb(0, 0, 0);
+}
+
+.text-3:active {
+  border: 4 dashed rgb(0, 0, 0);
+}
+
+.text-4 {
+  position: relative;
+  float: left;
+  z-index: 7;
+  width: 134px;
+  max-width: 134px;
+  min-height: 99px;
+  margin: 30px 0 0 6.242%;
+  border-radius: 36px;
+  background: url('../images/grass-icon.gif') rgb(1, 154, 0);
+  background-size: cover;
+  background-position: center center;
+  font-size: 0.593em;
+  -webkit-transition: 0.5;
+  -moz-transition: 0.5;
+  -o-transition: 0.5;
+  -ms-transition: 0.5;
+  transition: 0.5;
+}
+
+.text-5 {
+  position: relative;
+  float: left;
+  z-index: 8;
+  width: 135px;
+  max-width: 135px;
+  min-height: 99px;
+  margin: 30px 0 0 14.01048%;
+  border-radius: 36px;
+  background: url('../images/dT6XR9ypc.png') rgb(0, 119, 154);
+  background-size: cover;
+  background-position: center center;
+  font-size: 0.593em;
+  -webkit-transition: 0.5;
+  -moz-transition: 0.5;
+  -o-transition: 0.5;
+  -ms-transition: 0.5;
+  transition: 0.5;
+}
+
+.text-6 {
+  position: relative;
+  float: left;
+  z-index: 9;
+  width: 135px;
+  max-width: 135px;
+  min-height: 99px;
+  margin: 30px 0 0 3.67918%;
+  border-radius: 36px;
+  background: url('../images/wind-min.png') rgb(255, 255, 255);
+  background-size: cover;
+  background-position: center center;
+  font-size: 0.593em;
+  -webkit-transition: 0.5;
+  -moz-transition: 0.5;
+  -o-transition: 0.5;
+  -ms-transition: 0.5;
+  transition: 0.5;
+}
+
+.text-4:hover,
+.text-5:hover,
+.text-6:hover {
+  border: 3px solid rgb(0, 0, 0);
+}
+
+.container ._button-1 {
+  margin-left: 1.31568%;
+}
+
+.container ._button-2 {
+  margin-left: 5.66049%;
+}
+
+.container ._button-3 {
+  margin-left: 4.24282%;
+}

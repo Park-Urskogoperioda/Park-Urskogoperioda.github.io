@@ -1,0 +1,208 @@
+body {
+  background-color: rgb(255, 0, 0);
+  font: 400 1.375em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.container {
+  width: 780px;
+  max-width: 780px;
+  background-attachment: fixed;
+}
+
+.text {
+  background-color: rgb(169, 35, 35);
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._button {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: rgb(255, 76, 76);
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._button:hover {
+  border-color: rgb(255, 255, 255);
+  border-style: solid;
+}
+
+._button:active {
+  border-color: rgb(255, 255, 255);
+  border-style: dashed;
+}
+
+.container ._button {
+  width: 29.6153846153%;
+  height: 76px;
+  margin-top: 10px;
+  border-radius: 3px;
+  font-size: 2.091em;
+}
+
+.container ._button:hover {
+  border-width: 4px;
+}
+
+._button-2:hover,
+.container ._button:active {
+  border-width: 3px;
+}
+
+.container-1 {
+  height: 527px;
+  margin: 66px auto 0;
+  background-image: url('../images/20131130_STP004_0.jpg');
+  background-size: cover;
+  background-position: center center;
+}
+
+.container-2 {
+  float: left;
+  clear: both;
+  height: 596px;
+  margin: 75px 0 0 1.25%;
+  background-image: url('../images/1519071979_dinosaurwhisperer1%20(1).jpg');
+  background-size: cover;
+  background-position: center center;
+}
+
+.container-3 {
+  float: left;
+  clear: both;
+  height: 596px;
+  margin: 54px 0 0 1.25%;
+  background-image: url('../images/Jurassic_Park_3_07.jpg');
+  background-size: auto 586px;
+  background-position: 98% 50%;
+}
+
+.container-4 {
+  height: 596px;
+  margin: 1360px auto 0;
+  background-image: url('../images/Carnotaurus%20(1).jpg');
+  background-size: cover;
+  background-position: center center;
+}
+
+.container-5 {
+  height: 596px;
+  margin: 20px auto 0;
+  background-image: url('../images/jurassicworld2infamou1857.jpg');
+  background-size: cover;
+  background-position: center center;
+}
+
+.container-6 {
+  height: 596px;
+  margin: 75px auto 0;
+  background-image: url('../images/7f529e51717ad1906f39a9ee7aa54477.jpg');
+  background-size: auto auto;
+  background-position: center center;
+}
+
+.text-1 {
+  width: 68.9743589743%;
+  min-height: 153px;
+  margin: 24px auto 0;
+  border-radius: 24px;
+  font-size: 4.682em;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.text-10 {
+  float: left;
+  clear: both;
+  width: 60.641025641%;
+  margin: 202px 0 0 1.85497%;
+  border-radius: 22px;
+  font-size: 1em;
+}
+
+.text-11 {
+  float: left;
+  width: 75.641025641%;
+  min-height: 90px;
+  margin: 23px 0 0 13.46154%;
+  border-radius: 27px;
+  font-size: 3.182em;
+  font-weight: 700;
+}
+
+.text-12,
+.text-4,
+.text-6,
+.text-8 {
+  float: left;
+  clear: both;
+  width: 60.641025641%;
+  min-height: 218px;
+  margin: 202px 0 0 1.85497%;
+  border-radius: 22px;
+  font-size: 1em;
+}
+
+.text-2 {
+  width: 52.9487179487%;
+  margin: 49px auto 0;
+  border-radius: 31px;
+  font-size: 1.136em;
+}
+
+.text-3 {
+  float: left;
+  width: 75.641025641%;
+  min-height: 90px;
+  margin: 23px 0 0 13.46154%;
+  border-radius: 40px;
+  font-size: 3.182em;
+  font-weight: 700;
+}
+
+.text-5 {
+  float: left;
+  width: 75.641025641%;
+  min-height: 90px;
+  margin: 23px 0 0 13.46154%;
+  border-radius: 29px;
+  font-size: 3.182em;
+  font-weight: 700;
+}
+
+.text-7 {
+  float: left;
+  width: 75.641025641%;
+  min-height: 90px;
+  margin: 23px 0 0 13.46154%;
+  border-radius: 35px;
+  font-size: 3.182em;
+  font-weight: 700;
+}
+
+.text-9 {
+  float: left;
+  width: 75.641025641%;
+  min-height: 90px;
+  margin: 23px 0 0 13.46154%;
+  border-radius: 41px;
+  font-size: 3.182em;
+  font-weight: 700;
+}
+
+._button-2 {
+  width: 36.125%;
+  height: 72px;
+  margin-top: 33px;
+  border-radius: 27px;
+  font-family: Georgia;
+  font-size: 2.682em;
+  text-transform: uppercase;
+}
+
+._button-2:active {
+  border-width: 3;
+}

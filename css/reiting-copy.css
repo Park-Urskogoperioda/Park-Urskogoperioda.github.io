@@ -1,0 +1,276 @@
+body {
+  background-color: rgb(169, 35, 35);
+  font: 400 1.563em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.container .container {
+  width: 98.3116883116%;
+  height: 81px;
+}
+
+.text {
+  color: rgb(0, 0, 0);
+}
+
+.text-2 p {
+  margin-bottom: 1em;
+}
+
+._button {
+  display: block;
+  float: left;
+  width: 29.5904887714%;
+  height: 40px;
+  margin-top: 5px;
+  border-radius: 3px;
+  background-color: rgb(243, 83, 83);
+  font-family: Georgia;
+  font-size: 1.08em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._button:hover {
+  border: 3px solid rgb(255, 255, 255);
+}
+
+._button:active {
+  border: 4px dashed rgb(255, 255, 255);
+}
+
+._input {
+  display: block;
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 22;
+  width: 55.5844155844%;
+  height: 48px;
+  margin: -79px 0 0 30.63718%;
+  padding: 0 10px;
+  border-radius: 27px;
+  background-color: rgb(242, 242, 242);
+  font-size: 0.52em;
+  color: rgb(0, 0, 0);
+}
+
+.container-1 {
+  width: 770px;
+  max-width: 770px;
+  height: 1357px;
+  margin: 30px auto 0;
+  background-image: url('../images/sample-cool-galaxy-wallpapers-white-classic-motive-spectacular-adjustable-pinterest-round-1024x576.jpg');
+  background-size: auto 900px;
+  background-position: center center;
+}
+
+.container-2 {
+  float: left;
+  margin: -87px 0 0 -25.12987%;
+}
+
+.container-3 {
+  margin: 8px auto 0;
+}
+
+.text-1 {
+  width: 80.1298701298%;
+  margin: 0 auto;
+  border: 3px solid rgb(0, 0, 0);
+  border-radius: 47px;
+  background-color: rgb(169, 35, 35);
+  font-size: 2.72em;
+  font-weight: 700;
+  text-align: center;
+}
+
+.text-10 {
+  position: relative;
+  float: left;
+  z-index: 18;
+  width: 51.8181818181%;
+  min-height: 134px;
+  margin: 27px 0 0 3.76218%;
+  border-radius: 20px;
+  background-color: rgb(169, 35, 35);
+  font-size: 1em;
+  text-align: center;
+}
+
+.text-11 {
+  float: left;
+  clear: both;
+  width: 19.4155844155%;
+  min-height: 48px;
+  margin: 13px 0 0 11.23377%;
+  border-radius: 20px;
+  background-color: rgb(169, 35, 35);
+  font-size: 0.96em;
+  text-align: center;
+}
+
+.text-12 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 19;
+  width: 150px;
+  max-width: 150px;
+  min-height: 134px;
+  margin: 23px 0 0 9.93304%;
+  border: 3px solid rgb(169, 35, 35);
+  border-radius: 59px;
+  background-image: url('../images/profile-clipart-generic-user-20.png');
+  background-size: auto 135px;
+  background-position: center center;
+  font-size: 0.64em;
+}
+
+.text-13 {
+  position: relative;
+  float: left;
+  z-index: 21;
+  width: 35.3246753246%;
+  min-height: 32px;
+  margin: 23px 0 0 5.0629099999%;
+  border-radius: 20px;
+  background-color: rgb(169, 35, 35);
+  font-size: 1.24em;
+  text-align: center;
+}
+
+.text-14 {
+  float: left;
+  width: 19.4155844155%;
+  min-height: 48px;
+  margin: 8px 0 0 9.93304%;
+  border-radius: 20px;
+  background-color: rgb(169, 35, 35);
+  font-size: 0.96em;
+  text-align: center;
+}
+
+.text-2 {
+  width: 77.5324675324%;
+  min-height: 100px;
+  margin: 14px auto 0;
+  border: 3px solid rgb(0, 0, 0);
+  border-radius: 46px;
+  background-color: rgb(169, 35, 35);
+  font-size: 1.12em;
+  text-align: center;
+}
+
+.text-3 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 10;
+  width: 149px;
+  max-width: 149px;
+  min-height: 134px;
+  margin: 45px 0 0 11.23377%;
+  border-radius: 59px;
+  background-image: url('../images/narkomana-arhiv-kartinki-kartinki-smeshnye-kartinki-fotoprikoly_1214782784.jpg');
+  background-size: auto 135px;
+  background-position: center center;
+  font-size: 0.64em;
+}
+
+.text-4 {
+  position: relative;
+  float: left;
+  z-index: 11;
+  width: 51.8181818181%;
+  min-height: 134px;
+  margin: 45px 0 0 3.76218%;
+  border-radius: 20px;
+  background-color: rgb(169, 35, 35);
+  font-size: 1em;
+  text-align: center;
+}
+
+.text-5 {
+  float: left;
+  clear: both;
+  width: 19.4155844155%;
+  min-height: 48px;
+  margin: 12px 0 0 11.23377%;
+  border-radius: 20px;
+  background-color: rgb(169, 35, 35);
+  font-size: 0.96em;
+  text-align: center;
+}
+
+.text-6 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 13;
+  width: 149px;
+  max-width: 149px;
+  min-height: 134px;
+  margin: 32px 0 0 11.23377%;
+  border-radius: 59px;
+  background-image: url('../images/bigstock-Young-successful-businessman-w-48924602.jpg');
+  background-size: auto 322px;
+  background-position: 60% 11%;
+  font-size: 0.64em;
+}
+
+.text-7 {
+  position: relative;
+  float: left;
+  z-index: 15;
+  width: 51.8181818181%;
+  min-height: 134px;
+  margin: 32px 0 0 3.76218%;
+  border-radius: 20px;
+  background-color: rgb(169, 35, 35);
+  font-size: 1em;
+  text-align: center;
+}
+
+.text-8 {
+  float: left;
+  clear: both;
+  width: 19.4155844155%;
+  min-height: 48px;
+  margin: 5px 0 0 11.23377%;
+  border-radius: 20px;
+  background-color: rgb(169, 35, 35);
+  font-size: 0.96em;
+  text-align: center;
+}
+
+.text-9 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 16;
+  width: 149px;
+  max-width: 149px;
+  min-height: 134px;
+  margin: 22px 0 0 11.23377%;
+  border-radius: 59px;
+  background-image: url('../images/razvivajushie-igrushki-dlya-trehletnego-rebenka-8.jpg');
+  background-size: auto 135px;
+  background-position: center center;
+  font-size: 0.64em;
+}
+
+.container ._button-1,
+.container ._button-4 {
+  margin-left: 1.31688%;
+}
+
+.container ._button-2,
+.container ._button-5 {
+  margin-left: 5.66587%;
+}
+
+.container ._button-3,
+.container ._button-6 {
+  margin-left: 4.24579%;
+}

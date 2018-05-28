@@ -1,0 +1,226 @@
+body {
+  background-color: rgb(169, 35, 35);
+  font: 400 2em/1.38 Georgia;
+  color: rgb(0, 0, 0);
+}
+
+.container {
+  float: left;
+}
+
+.container .container {
+  width: 96.1880559085%;
+  height: 81px;
+  margin: 10px 0 0 2.5413%;
+}
+
+.text {
+  float: left;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._button {
+  display: block;
+  float: left;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._button:hover {
+  border-style: solid;
+}
+
+._button:active {
+  border-style: dashed;
+}
+
+._input {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 5;
+  width: 45.3621346886%;
+  height: 35px;
+  margin: 9px 0 0 1.77891%;
+  padding: 0 10px;
+  border: 4px solid rgb(169, 35, 35);
+  background-color: rgb(242, 242, 242);
+  font-size: 0.406em;
+  color: rgb(0, 0, 0);
+}
+
+.container-1 {
+  width: 98.375%;
+  height: 762px;
+  margin: 9px 0 0 0.6875%;
+  background-image: url('../images/a4-papers-70gsm-75gsm-80gsm-728439(2).jpg');
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.text-1 {
+  clear: both;
+  width: 87.6747141041%;
+  min-height: 157px;
+  margin: 9px 0 0 7.56036%;
+  border: 4px solid rgb(0, 0, 0);
+  background-color: rgb(169, 35, 35);
+  font-size: 2.344em;
+}
+
+.text-2 {
+  position: relative;
+  clear: both;
+  z-index: 1;
+  width: 35.0698856416%;
+  min-height: 66px;
+  margin: 63px 0 0 6.54384%;
+  border: 2px solid rgb(0, 0, 0);
+  background-color: rgb(255, 76, 76);
+  font-size: 0.906em;
+}
+
+.text-3 {
+  position: relative;
+  z-index: 2;
+  width: 35.0698856416%;
+  min-height: 66px;
+  margin: 63px 0 0 18.54948%;
+  border: 2px solid rgb(0, 0, 0);
+  background-color: rgb(255, 76, 76);
+  font-size: 0.906em;
+}
+
+.text-4 {
+  position: relative;
+  clear: both;
+  z-index: 13;
+  width: 21.6010165184%;
+  min-height: 41px;
+  margin-left: 13.6555%;
+  background-color: rgb(255, 76, 76);
+  font-family: Helvetica;
+  font-size: 1em;
+}
+
+.text-5 {
+  position: relative;
+  z-index: 14;
+  width: 21.6010165184%;
+  min-height: 41px;
+  margin-left: 33.54511%;
+  background-color: rgb(255, 76, 76);
+  font-family: Helvetica;
+  font-size: 1em;
+}
+
+.text-6 {
+  clear: both;
+  width: 36.5926778907%;
+  min-height: 7px;
+  margin: 29px 0 0 7.56036%;
+  background-color: rgb(169, 35, 35);
+  font-size: 0.5em;
+}
+
+.text-7 {
+  position: relative;
+  clear: both;
+  z-index: 4;
+  width: 36.5946632782%;
+  margin: 9px 0 0 7.56036%;
+  border-radius: 10px;
+  background-color: rgb(169, 35, 35);
+  font-size: 0.813em;
+}
+
+.text-8 {
+  clear: both;
+  width: 36.5946632782%;
+  min-height: 7px;
+  margin: 9px 0 0 7.56036%;
+  background-color: rgb(169, 35, 35);
+  font-size: 0.5em;
+}
+
+.container ._button-1 {
+  width: 29.5904887714%;
+  height: 40px;
+  margin: 5px 0 0 1.31688%;
+  border-radius: 3px;
+  background-color: rgb(243, 83, 83);
+  font-size: 0.844em;
+}
+
+.container ._button-2 {
+  width: 29.5904887714%;
+  height: 40px;
+  margin: 5px 0 0 5.66587%;
+  border-radius: 3px;
+  background-color: rgb(243, 83, 83);
+  font-size: 0.844em;
+}
+
+.container ._button-3 {
+  width: 29.5904887714%;
+  height: 40px;
+  margin: 5px 0 0 4.24579%;
+  border-radius: 3px;
+  background-color: rgb(243, 83, 83);
+  font-size: 0.844em;
+}
+
+.container ._button-1:hover,
+.container ._button-2:hover,
+.container ._button-3:hover {
+  border-width: 3px;
+  border-color: rgb(255, 255, 255);
+}
+
+.container ._button-1:active,
+.container ._button-2:active,
+.container ._button-3:active {
+  border-width: 4px;
+  border-color: rgb(255, 255, 255);
+}
+
+.container ._button-4 {
+  position: relative;
+  clear: both;
+  z-index: 3;
+  width: 25.9212198221%;
+  height: 80px;
+  margin: 4px 0 0 10.35181%;
+  border-radius: 32px;
+  background: url('../images/knopka.png') rgb(169, 35, 35);
+  background-size: cover;
+  background-position: center center;
+  font-size: 0.781em;
+}
+
+.container ._button-5 {
+  position: relative;
+  z-index: 10;
+  width: 25.9212198221%;
+  height: 80px;
+  margin: 4px 0 0 29.09983%;
+  border-radius: 32px;
+  background: url('../images/knopka.png') rgb(169, 35, 35);
+  background-size: cover;
+  background-position: center center;
+  font-size: 0.781em;
+}
+
+.container ._button-4:hover,
+.container ._button-5:hover {
+  border-width: 4px;
+  border-color: rgb(0, 0, 0);
+}
+
+.container ._button-4:active,
+.container ._button-5:active {
+  border-width: 4;
+  background-color: rgb(255, 76, 76);
+}

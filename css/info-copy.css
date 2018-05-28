@@ -1,0 +1,195 @@
+body {
+  background-color: rgb(169, 35, 35);
+  font: 400 1.438em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.container .container {
+  float: left;
+  width: 98.5677083333%;
+  height: 81px;
+  margin: 12px 0 0 1.43026%;
+}
+
+.text {
+  color: rgb(0, 0, 0);
+}
+
+._button {
+  display: block;
+  float: left;
+  width: 29.5904887714%;
+  height: 40px;
+  margin-top: 5px;
+  border-radius: 3px;
+  background-color: rgb(243, 83, 83);
+  font-family: Georgia;
+  font-size: 1.174em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._button:hover {
+  border: 3px solid rgb(255, 255, 255);
+}
+
+._button:active {
+  border: 4px dashed rgb(255, 255, 255);
+}
+
+.container-1 {
+  width: 768px;
+  max-width: 768px;
+  height: 963px;
+  max-height: 963px;
+  margin: 5px auto 0;
+  background-image: url('../images/47.jpg');
+  background-size: cover;
+  background-position: 89% 50%;
+  background-attachment: fixed;
+}
+
+.text-1 {
+  width: 66.9270833333%;
+  min-height: 42px;
+  margin: 132px auto 0;
+  border: 3px solid rgb(0, 0, 0);
+  border-radius: 61px;
+  background-color: rgb(169, 35, 35);
+  font-family: Georgia;
+  font-size: 2.739em;
+  text-align: center;
+}
+
+.text-10,
+.text-7 {
+  float: left;
+  clear: both;
+  width: 25.5208333333%;
+  min-height: 36px;
+  margin: 12px 0 0 7.03125%;
+  padding-right: 2px;
+  border: 3px solid rgb(255, 255, 255);
+  background-color: rgb(169, 35, 35);
+  font-family: Georgia;
+  font-size: 1.087em;
+  font-weight: 700;
+  text-align: center;
+}
+
+.text-2 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 5;
+  width: 147px;
+  max-width: 147px;
+  min-height: 138px;
+  margin: 18px 0 0 7.03125%;
+  border-radius: 52px;
+  background-image: url('../images/trailer34.jpg');
+  background-size: cover;
+  background-position: 72% 49%;
+  font-family: Georgia;
+  font-size: 0.609em;
+}
+
+.text-3 {
+  position: relative;
+  float: left;
+  z-index: 7;
+  width: 56.25%;
+  min-height: 120px;
+  margin: 18px 0 0 7.94271%;
+  border: 3px solid rgb(255, 255, 255);
+  background-color: rgb(169, 35, 35);
+  font-size: 1em;
+  text-align: center;
+}
+
+.text-4 {
+  float: left;
+  clear: both;
+  width: 25.5208333333%;
+  min-height: 36px;
+  margin: 11px 0 0 7.03125%;
+  padding-right: 2px;
+  border: 3px solid rgb(255, 255, 255);
+  background-color: rgb(169, 35, 35);
+  font-family: Georgia;
+  font-size: 1.087em;
+  font-weight: 700;
+  text-align: center;
+}
+
+.text-5 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 8;
+  width: 147px;
+  max-width: 147px;
+  min-height: 138px;
+  margin: 6px 0 0 7.03125%;
+  border-radius: 52px;
+  background-image: url('../images/jurassic-world-trailer-nov-2014-42-470x310@2x.jpg');
+  background-size: auto 322px;
+  background-position: 34% 33%;
+  font-family: Georgia;
+  font-size: 0.609em;
+}
+
+.text-6 {
+  position: relative;
+  float: left;
+  z-index: 10;
+  width: 56.25%;
+  min-height: 120px;
+  margin: 6px 0 0 7.94271%;
+  border: 3px solid rgb(255, 255, 255);
+  background-color: rgb(169, 35, 35);
+  font-size: 1em;
+  text-align: center;
+}
+
+.text-8 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 11;
+  width: 147px;
+  max-width: 147px;
+  min-height: 138px;
+  margin: 16px 0 0 7.03125%;
+  border-radius: 52px;
+  background-image: url('../images/BD-Wong-Jurassic-World.jpg');
+  background-size: auto 231px;
+  background-position: 49% 33%;
+  font-family: Georgia;
+  font-size: 0.609em;
+}
+
+.text-9 {
+  position: relative;
+  float: left;
+  z-index: 13;
+  width: 56.25%;
+  min-height: 120px;
+  margin: 27px 0 0 7.94271%;
+  border: 3px solid rgb(255, 255, 255);
+  background-color: rgb(169, 35, 35);
+  font-size: 1em;
+  text-align: center;
+}
+
+.container ._button-1 {
+  margin-left: 1.31688%;
+}
+
+.container ._button-2 {
+  margin-left: 5.66587%;
+}
+
+.container ._button-3 {
+  margin-left: 4.24579%;
+}

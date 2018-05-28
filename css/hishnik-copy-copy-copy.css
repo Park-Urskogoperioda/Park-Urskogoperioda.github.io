@@ -1,0 +1,226 @@
+body {
+  background-color: rgb(255, 0, 0);
+  font: 400 1.375em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.container {
+  width: 780px;
+  max-width: 780px;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.text {
+  background-color: rgb(169, 35, 35);
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-10 p,
+.text-12 p,
+.text-4 p,
+.text-6 p,
+.text-8 p {
+  margin-bottom: 1em;
+}
+
+._button {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: rgb(255, 76, 76);
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._button:hover {
+  border-color: rgb(255, 255, 255);
+  border-style: solid;
+}
+
+._button:active {
+  border-color: rgb(255, 255, 255);
+  border-style: dashed;
+}
+
+.container ._button {
+  width: 29.6153846153%;
+  height: 76px;
+  margin-top: 10px;
+  border-radius: 3px;
+  font-size: 2.091em;
+}
+
+.container ._button:hover {
+  border-width: 4px;
+}
+
+._button-2:hover,
+.container ._button:active {
+  border-width: 3px;
+}
+
+.container-1 {
+  height: 527px;
+  margin: 71px auto 0;
+  background-image: url('../images/maxresdefault.jpg');
+  background-position: center center;
+}
+
+.container-2 {
+  float: left;
+  clear: both;
+  height: 596px;
+  margin: 57px 0 0 1.25%;
+  background-image: url('../images/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB_%D1%8E%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%D0%B0_%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BC%D0%B8%D1%80-65.jpg');
+  background-position: 19% 50%;
+}
+
+.container-3 {
+  float: left;
+  clear: both;
+  height: 596px;
+  margin: 44px 0 0 1.25%;
+  background-image: url('../images/flyingmonsters_2_1800x1000.jpg');
+  background-position: center center;
+}
+
+.container-4 {
+  float: left;
+  clear: both;
+  height: 596px;
+  margin: 50px 0 0 1.25%;
+  background-image: url('../images/a64f5c41063905.57979a7aa0791.jpg');
+  background-position: center center;
+}
+
+.container-5 {
+  float: left;
+  clear: both;
+  height: 596px;
+  margin: 49px 0 0 1.25%;
+  background-image: url('../images/44._Ptakojester_Dimorphodon(2).jpg');
+  background-position: center center;
+}
+
+.container-6 {
+  float: left;
+  clear: both;
+  height: 596px;
+  margin: 47px 0 0 1.25%;
+  background-image: url('../images/dsungaripterus_weii_2_by_p.png');
+  background-position: center center;
+}
+
+.text-1 {
+  width: 96.6666666666%;
+  min-height: 153px;
+  margin: 24px auto 0;
+  border-radius: 24px;
+  font-size: 4.682em;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.text-10,
+.text-4,
+.text-8 {
+  float: left;
+  clear: both;
+  width: 60.641025641%;
+  min-height: 218px;
+  margin: 202px 0 0 1.85497%;
+  border-radius: 22px;
+  font-size: 1em;
+}
+
+.text-11 {
+  width: 80%;
+  min-height: 90px;
+  margin: 23px auto 0;
+  border-radius: 41px;
+  font-size: 3.182em;
+  font-weight: 700;
+}
+
+.text-12 {
+  float: left;
+  clear: both;
+  width: 60.641025641%;
+  margin: 202px 0 0 1.85497%;
+  border-radius: 22px;
+  font-size: 1em;
+}
+
+.text-2 {
+  width: 52.9487179487%;
+  margin: 14px auto 0;
+  padding: 3px;
+  border-radius: 31px;
+  font-size: 1.136em;
+}
+
+.text-3 {
+  float: left;
+  width: 75.641025641%;
+  min-height: 90px;
+  margin: 23px 0 0 13.46154%;
+  border-radius: 27px;
+  font-size: 3.182em;
+  font-weight: 700;
+}
+
+.text-5 {
+  float: left;
+  width: 75.641025641%;
+  min-height: 90px;
+  margin: 23px 0 0 13.46154%;
+  border-radius: 40px;
+  font-size: 3.182em;
+  font-weight: 700;
+}
+
+.text-6 {
+  float: left;
+  clear: both;
+  width: 60.641025641%;
+  min-height: 218px;
+  margin: 202px 0 0 1.8549679487%;
+  border-radius: 22px;
+  font-size: 1em;
+}
+
+.text-7 {
+  float: left;
+  width: 83.3333333333%;
+  min-height: 90px;
+  margin: 23px 0 0 13.46154%;
+  border-radius: 29px;
+  font-size: 3.182em;
+  font-weight: 700;
+}
+
+.text-9 {
+  float: left;
+  width: 80.7692307692%;
+  min-height: 90px;
+  margin: 23px 0 0 13.46154%;
+  border-radius: 35px;
+  font-size: 3.182em;
+  font-weight: 700;
+}
+
+._button-2 {
+  width: 36.125%;
+  height: 72px;
+  margin-top: 3259px;
+  border-radius: 27px;
+  font-family: Georgia;
+  font-size: 2.682em;
+  text-transform: uppercase;
+}
+
+._button-2:active {
+  border-width: 3;
+}

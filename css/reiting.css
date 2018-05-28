@@ -1,0 +1,110 @@
+body {
+  background-color: rgb(169, 35, 35);
+  font: 400 1.688em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.container .container {
+  width: 98.3116883116%;
+  height: 81px;
+}
+
+.text {
+  margin-right: auto;
+  margin-left: auto;
+  border-width: 3px;
+  border-style: solid;
+  color: rgb(0, 0, 0);
+}
+
+._button {
+  display: block;
+  float: left;
+  width: 29.5904887714%;
+  height: 40px;
+  margin-top: 5px;
+  border-radius: 3px;
+  background-color: rgb(243, 83, 83);
+  font-family: Georgia;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._button:hover {
+  border: 3px solid rgb(255, 255, 255);
+}
+
+._button:active {
+  border: 4px dashed rgb(255, 255, 255);
+}
+
+.container-1 {
+  width: 770px;
+  max-width: 770px;
+  height: 887px;
+  margin: 44px auto 0;
+  background-image: url('../images/sovremennye_biznes-zdanija_Ob4530-764x764.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.container-2 {
+  float: left;
+  margin: -87px 0 0 -25.12987%;
+}
+
+.container-3 {
+  margin: 8px auto 0;
+}
+
+.text-1 {
+  width: 80.1298701298%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 47px;
+  background-color: rgb(169, 35, 35);
+  font-size: 2.519em;
+  font-weight: 700;
+  text-align: center;
+}
+
+.text-2 {
+  width: 506px;
+  max-width: 506px;
+  min-height: 75px;
+  margin-top: 17px;
+  border-color: rgb(169, 35, 35);
+  border-radius: 39px;
+  background-image: url('../images/4.5strslg.jpg');
+  background-size: auto 111px;
+  background-position: 50% 73%;
+  font-size: 0.593em;
+}
+
+.text-3 {
+  width: 597px;
+  max-width: 597px;
+  min-height: 211px;
+  margin-top: 81px;
+  border-color: rgb(0, 0, 0);
+  border-radius: 13px;
+  background-color: rgb(169, 35, 35);
+  font-size: 1em;
+  text-align: center;
+}
+
+.container ._button-1,
+.container ._button-4 {
+  margin-left: 1.31688%;
+}
+
+.container ._button-2,
+.container ._button-5 {
+  margin-left: 5.66587%;
+}
+
+.container ._button-3,
+.container ._button-6 {
+  margin-left: 4.24579%;
+}

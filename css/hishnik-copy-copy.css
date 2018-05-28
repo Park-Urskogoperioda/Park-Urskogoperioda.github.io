@@ -1,0 +1,223 @@
+body {
+  background-color: rgb(255, 0, 0);
+  font: 400 1.375em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.container {
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.text {
+  background-color: rgb(169, 35, 35);
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-10 p,
+.text-12 p,
+.text-4 p,
+.text-6 p {
+  margin-bottom: 1em;
+}
+
+._button {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: rgb(255, 76, 76);
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._button:hover {
+  border-color: rgb(255, 255, 255);
+  border-style: solid;
+}
+
+._button:active {
+  border-color: rgb(255, 255, 255);
+  border-style: dashed;
+}
+
+.container ._button {
+  width: 29.6153846153%;
+  height: 76px;
+  margin-top: 10px;
+  border-radius: 3px;
+  font-size: 2.091em;
+}
+
+.container ._button:hover {
+  border-width: 4px;
+}
+
+._button-2:hover,
+.container ._button:active {
+  border-width: 3px;
+}
+
+.container-1 {
+  width: 780px;
+  max-width: 780px;
+  height: 527px;
+  margin: 66px auto 0;
+  background-image: url('../images/%D0%9E%D0%BA%D0%B5%D0%B0%D0%BD,_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0,_%D0%B2%D0%B5%D1%87%D0%B5%D1%80,_%D0%B2%D0%BE%D0%BB%D0%BD%D1%8B-1024x576-MM-90.jpg');
+}
+
+.container-2 {
+  float: left;
+  clear: both;
+  width: 780px;
+  max-width: 780px;
+  height: 596px;
+  margin: 62px 0 0 1.25%;
+  background-image: url('../images/GettyImages-168835007-58ddf4d95f9b584683c2cd77.jpg');
+}
+
+.container-3 {
+  float: left;
+  clear: both;
+  width: 780px;
+  max-width: 780px;
+  height: 596px;
+  margin: 44px 0 0 1.25%;
+  background-image: url('../images/Malawania_anachronus_032.jpg');
+}
+
+.container-4 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 12;
+  width: 780px;
+  max-width: 780px;
+  height: 596px;
+  margin: 50px 0 0 1.25%;
+  background-image: url('../images/jurassic_world-has-huge-hit-at-first-weekend.jpg');
+}
+
+.container-5 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 15;
+  width: 97.5%;
+  height: 596px;
+  margin: -597px 0 0 1.25%;
+  background-image: url('../images/d790a0d875fa5dd5c4dbec9fe5654b30.jpg');
+}
+
+.container-6 {
+  float: left;
+  width: 780px;
+  max-width: 780px;
+  height: 596px;
+  margin: 46px 0 0 1.25%;
+  background-image: url('../images/Megalodon-Shark-hd-wallpapers-1024x614.jpg');
+}
+
+.text-1 {
+  width: 96.6666666666%;
+  min-height: 153px;
+  margin: 24px auto 0;
+  border-radius: 24px;
+  font-size: 4.682em;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.text-10,
+.text-4,
+.text-6,
+.text-8 {
+  float: left;
+  clear: both;
+  width: 60.641025641%;
+  min-height: 218px;
+  margin: 202px 0 0 1.85497%;
+  border-radius: 22px;
+  font-size: 1em;
+}
+
+.text-11 {
+  width: 80%;
+  min-height: 90px;
+  margin: 23px auto 0;
+  border-radius: 41px;
+  font-size: 3.182em;
+  font-weight: 700;
+}
+
+.text-12 {
+  float: left;
+  clear: both;
+  width: 60.641025641%;
+  margin: 202px 0 0 1.85497%;
+  border-radius: 22px;
+  font-size: 1em;
+}
+
+.text-2 {
+  width: 52.9487179487%;
+  margin: 14px auto 0;
+  padding: 3px;
+  border-radius: 31px;
+  font-size: 1.136em;
+}
+
+.text-3 {
+  float: left;
+  width: 75.641025641%;
+  min-height: 90px;
+  margin: 23px 0 0 13.46154%;
+  border-radius: 27px;
+  font-size: 3.182em;
+  font-weight: 700;
+}
+
+.text-5 {
+  float: left;
+  width: 75.641025641%;
+  min-height: 90px;
+  margin: 23px 0 0 13.46154%;
+  border-radius: 40px;
+  font-size: 3.182em;
+  font-weight: 700;
+}
+
+.text-7 {
+  float: left;
+  width: 75.641025641%;
+  min-height: 90px;
+  margin: 23px 0 0 13.46154%;
+  border-radius: 29px;
+  font-size: 3.182em;
+  font-weight: 700;
+}
+
+.text-9 {
+  float: left;
+  width: 80.7692307692%;
+  min-height: 90px;
+  margin: 23px 0 0 13.46154%;
+  border-radius: 35px;
+  font-size: 3.182em;
+  font-weight: 700;
+}
+
+._button-2 {
+  width: 36.125%;
+  height: 72px;
+  margin-top: 2613px;
+  border-radius: 27px;
+  font-family: Georgia;
+  font-size: 2.682em;
+  text-transform: uppercase;
+}
+
+._button-2:active {
+  border-width: 3;
+}
